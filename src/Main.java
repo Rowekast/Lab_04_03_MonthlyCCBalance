@@ -7,5 +7,4 @@ void main() {
     double twoMonthBalance = oneMonthBalance + oneMonthBalance * interestRate;
     System.out.println("Your credit card balance after one month is " + oneMonthBalance);
     System.out.println("Your credit card balance after two months is " + twoMonthBalance);
-
 }
